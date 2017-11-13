@@ -1,0 +1,14 @@
+database file
+steps to add database
+
+open Phpmyadmin
+
+create database name "city"
+
+after that open database city
+
+click on import file 
+
+select city.sql file
+
+onec you selct file automatically added all  data inside database.
